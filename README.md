@@ -1,5 +1,7 @@
 # /r Python by AZ
 
+Link app: [https://rhmdziz-pyreview-app-dynidq.streamlit.app/]
+
 - Algorithm
     - Recursive                    DONE
     - Searching                    DONE
